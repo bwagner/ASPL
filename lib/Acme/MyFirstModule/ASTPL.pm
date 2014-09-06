@@ -4,8 +4,6 @@ use 5.006;
 use strict;
 use warnings;
 
-use evenmorewarnings;
-
 =head1 NAME
 
 Acme::MyFirstModule::ASTPL - The great new Acme::MyFirstModule::ASTPL!
